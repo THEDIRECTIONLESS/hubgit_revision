@@ -1,0 +1,19 @@
+##ignore all .txt files
+#*.txt
+
+complied_generated_files.txt
+##exclude files from ignore
+#!readme.txt
+
+##Ignore Only .txt files in root folder
+#/*.txt
+
+##Ignore all text files in filders with name generated
+#generated/*.txt
+
+##Include also subdirectories
+#generated/**/*.txt
+
+##Include all fles and folder with the name.
+#generated 
+
