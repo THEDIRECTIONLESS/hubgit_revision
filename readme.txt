@@ -8,3 +8,4 @@ Author:
 Socail_Handle: 
 	Twitter: @thedirectionless
 	Facebook: @thedirectionless
+	Instagram: @thedirectionless
