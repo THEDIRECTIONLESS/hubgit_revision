@@ -6,10 +6,13 @@ Author:
 	Middle_Name: Haider
 	Last_Name:  Siddiqi
 	
-	Age: 70
+	Age: 50
 
 Socail_Handle: 
 	Twitter: @thedirectionless
 	Facebook: @thedirectionless
 	Instagram: @thedirectionless
 	Youtube:    @thedirectionless
+
+Website: 
+	thedirectionless.com
